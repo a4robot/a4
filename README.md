@@ -26,18 +26,14 @@ We achieve this by focusing on:
 *   **Fruit Grapple**: Designed to reduce workload and increase productivity.
     *   [Watch a demo](https://www.youtube.com/watch?v=RcUqBwOv3lU)
 *   **Inventory Inspection Drone**: Used for inventory cycle counts on high racks to reduce work risk and increase consistency.
-    *   [Watch a demo](https://www.youtube.com/watch?v=7yxsUBgS15g)
-    *   [Another demo](https://www.youtube.com/watch?v=I3NljG-p8HE)
-    *   [Further demonstration](https://www.youtube.com/watch?v=q6y6YtJikFk)
+    *   [Watch a demo](https://www.youtube.com/watch?v=KxZqZfwC5Bo)
 
 You can find more videos on our YouTube channel: [A4 ROBOTICS channel](https://www.youtube.com/@a4robotics).
 
 ## Contact Us
 
 *   **General Inquiries**: in4@a4robotics.com (for external communications)
-*   **Team Email**: team@a4robotics.com (for internal communications)
-*   **Purchase Related Inquiries**: purchase@a4robotics.com
-*   **Online Electronic Shop Information**: shop.elec@a4robotics.com
+*   **Recruitment**: join.us@a4robotics.com  (for Jobs and Internship)
 
 ## Our Location
 
