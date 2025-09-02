@@ -42,17 +42,7 @@ A4 ROBOTICS CO., LTD. (HEADQUARTER)
 
 ## Careers & Internships
 
-We are always looking for passionate individuals to join our team. We offer internship opportunities for students interested in robotics, AI, and engineering. You can find more details in our Internship folder.
-
-## Internal Operations & Documentation
-
-A4 ROBOTICS emphasizes strong internal documentation and knowledge management to ensure clear communication and consistent practices. We use Odoo for various internal operations including:
-
-*   **Timesheets**: Project in Timesheet
-*   **Expense Recording**: Analytic Distribution
-*   **Project Planning**: Project in Planning
-
-Our official documents include letters, reports, and presentations.
+We are always looking for passionate individuals to join our team. We offer internship opportunities for students interested in robotics, AI, and engineering. 
 
 ## Contributions
 
